@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/InsuMoon2/InsuMoon2" target="_blank"><img src="https://img.shields.io/badge/Unreal_Portfolio-111111?style=plastic&logo=surrealdb&unrealengine=FF00A0"/></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsuMoon2&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsuMoon2&show_icons=true&theme=swift)
+
+
