@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-A8B9CC?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Unreal_Engine-00599C?style=flat-square&logo=unrealengine&logoColor=0E1128"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unreal_Engine-808080C?style=flat-square&logo=unrealengine&logoColor=0E1128"/></a>&nbsp 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsuMoon2&show_icons=true&theme=swift)
 
