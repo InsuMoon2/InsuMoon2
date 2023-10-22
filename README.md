@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=70)
 
 <h3>📚 Skill Set 📚</h3> </a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Unreal_Engine-808080?style=flat-square&logo=unrealengine&logoColor=0E1128"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unreal_Engine-808080?style=flat-square&logo=unrealengine&logoColor=0E1128"/>
 <img src="https://img.shields.io/badge/DirectX11-80FF00?style=flat-square&logo=taichigraphics&logoColor=000000"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InsuMoon2&show_icons=true&theme=swift)
