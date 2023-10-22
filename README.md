@@ -23,7 +23,3 @@ Here are some ideas to get you started:
 
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InsuMoon&show_icons=true&theme=swift) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsuMoon2&layout=compact) |
 | --- | --- |
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=InsuMoon2&show_icons=true&theme=swift)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsuMoon2&layout=compact)
