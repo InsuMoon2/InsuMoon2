@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/InsuMoon2"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InsuMoon2&layout=compact&theme=swift&hide_border=true" /></a> 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={InsuMoon2(string)})](https://github.com/anuraghazra/github-readme-stats)
