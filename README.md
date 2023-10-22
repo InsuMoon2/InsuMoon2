@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InsuMoon2&show_icons=true&theme=swift)</a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?InsuMoon2=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsuMoon2&layout=compact)
