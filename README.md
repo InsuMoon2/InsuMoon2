@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Unreal_Engine-808080?style=flat-square&logo=unrealengine&logoColor=0E1128"/></a>
 <img src="https://img.shields.io/badge/DirectX11-80FF00?style=flat-square&logo=taichigraphics&logoColor=000000"/></a>
 
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InsuMoon&show_icons=true&theme=swift) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsuMoon&layout=compact) |
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InsuMoon&show_icons=true&theme=swift) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsuMoon2&layout=compact) |
 | --- | --- |
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InsuMoon2&show_icons=true&theme=swift)
