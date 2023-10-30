@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=InsuMoon2&show_icons=true&theme=swift) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsuMoon2&layout=compact) |
 | --- | --- |
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={dlstn9115})](https://solved.ac/{dlstn9115})
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstn9115)](https://solved.ac/dlstn9115)
