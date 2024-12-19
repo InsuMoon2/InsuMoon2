@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 
 |[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstn9115)](https://solved.ac/dlstn9115)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsuMoon2&layout=compact) |
 | --- | --- |
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InsuMoon2&layout=compact)
-
