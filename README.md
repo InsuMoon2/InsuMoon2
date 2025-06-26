@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=70)
 
-유튜브 게임 개발 영상 : https://www.youtube.com/@%EB%AC%B8%EC%9D%B8%EC%88%98-i3t/playlists
+유튜브 : https://www.youtube.com/@%EB%AC%B8%EC%9D%B8%EC%88%98-i3t/playlists
 
 <h3>📚 Skill Set 📚</h3> </a>
 
