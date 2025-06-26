@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/youtube-00599?style=for-the-badge&logo=YouTube&logoColor=white">
+<img src="https://img.shields.io/badge/youtube-E62117?style=for-the-badge&logo=YouTube&logoColor=white">
 
 
  : https://www.youtube.com/@%EB%AC%B8%EC%9D%B8%EC%88%98-i3t/playlists
