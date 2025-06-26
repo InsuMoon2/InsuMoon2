@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20&fontSize=70)
+<img src="https://img.shields.io/badge/youtube-00599?style=for-the-badge&logo=YouTube&logoColor=white">
 
-![image](https://github.com/user-attachments/assets/8375dba5-d1fb-454a-a35f-7de438e90c20)
+
  : https://www.youtube.com/@%EB%AC%B8%EC%9D%B8%EC%88%98-i3t/playlists
 
 <h3>📚 Skill Set 📚</h3> </a>
